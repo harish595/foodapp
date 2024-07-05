@@ -1,0 +1,11 @@
+#pagenotfound{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#pagenotfound > p{
+    color: red;
+    font-family: sans-serif;
+}
